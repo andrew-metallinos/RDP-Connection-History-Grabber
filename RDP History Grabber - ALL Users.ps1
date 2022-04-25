@@ -29,7 +29,7 @@ Write-Host "
     ╚═╝░░░░░╚═╝╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚══════╝╚═╝╚═╝░░╚══╝░╚════╝░╚═════╝░  ░░░╚═╝░░░╚══════╝░╚════╝░╚═╝░░╚═╝
 
 
-    Title: RDP History Grabber
+    Title: RDP History Grabber - ALL Users
     Author: Andrew Metallinos <andrew@metallinostech.com.au>
     Creation Date: 24/04/2022
     Revision Date: 25/04/2022
