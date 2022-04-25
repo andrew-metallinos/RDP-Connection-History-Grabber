@@ -30,6 +30,10 @@ Write-Host "
     Creation Date: 24/04/2022
     Revision Date: 25/04/2022
     Version: 1.0.0
+    
+        Original Source: https://github.com/3gstudent/List-RDP-Connections-History
+        Author: 3gstudent@3gstudent
+        License: BSD 3-Clause
 
 ========================================
 "
