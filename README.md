@@ -2,9 +2,9 @@
 
 PowerShell script to list the RDP Connections History of logged-in users or all users.
 
-   Original Source: https://github.com/3gstudent/List-RDP-Connections-History
-   Author: 3gstudent@3gstudent
-   License: BSD 3-Clause
+Original Source: https://github.com/3gstudent/List-RDP-Connections-History
+Author: 3gstudent@3gstudent
+License: BSD 3-Clause
 
 ### List Logged-in Users' RDP Connections History
 
