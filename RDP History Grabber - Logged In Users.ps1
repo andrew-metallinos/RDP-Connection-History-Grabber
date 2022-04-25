@@ -1,4 +1,4 @@
- <#
+﻿ <#
     .SYNOPSIS
 
         This function will generate a list
@@ -17,6 +17,7 @@
 
 Write-Host "
 
+
     ███╗░░░███╗███████╗████████╗░█████╗░██╗░░░░░██╗░░░░░██╗███╗░░██╗░█████╗░░██████╗  ████████╗███████╗░█████╗░██╗░░██╗
     ████╗░████║██╔════╝╚══██╔══╝██╔══██╗██║░░░░░██║░░░░░██║████╗░██║██╔══██╗██╔════╝  ╚══██╔══╝██╔════╝██╔══██╗██║░░██║
     ██╔████╔██║█████╗░░░░░██║░░░███████║██║░░░░░██║░░░░░██║██╔██╗██║██║░░██║╚█████╗░  ░░░██║░░░█████╗░░██║░░╚═╝███████║
@@ -25,8 +26,8 @@ Write-Host "
     ╚═╝░░░░░╚═╝╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚══════╝╚═╝╚═╝░░╚══╝░╚════╝░╚═════╝░  ░░░╚═╝░░░╚══════╝░╚════╝░╚═╝░░╚═╝
 
 
-    Title: RDP History Grabber - Logged In Users
-    Author: Andrew Metallinos <andrew@metallinostech.com.au>
+    Title: Quick Access Links Import
+    Author: Andrew Metallinos <andrewm@edgeitsolutions.com.au>
     Creation Date: 24/04/2022
     Revision Date: 25/04/2022
     Version: 1.0.0
