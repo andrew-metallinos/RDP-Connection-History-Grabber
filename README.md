@@ -20,7 +20,7 @@ Realization ideas:
 
 **Note:**
 
-The script automatically implements the above operation,there is no need for a GUI. :)
+The script automatically implements the above operation, there is no need for a GUI. :)
 
 
 More Details:
